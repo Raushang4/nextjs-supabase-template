@@ -64,6 +64,6 @@ export const items: LinkItem[] = [
   {
     type: "link",
     title: "My saas landing page boilerplate on Github",
-    url: "https://github.com/raushang4/saas-landingpage",
+    url: "https://github.com/Raushang4/raushang4-saas-landingpage",
   },
 ];
