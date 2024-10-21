@@ -8,6 +8,7 @@ export const name = "@raushang4";
 export const description = "Tech founder & senior software engineer";
 
 export const socialLinks = [
+  { platform: "portfolio", url: "https://www.raushang4.me" },
   { platform: "LinkedIn", url: "https://www.linkedin.com/in/raushang4/" },
   { platform: "Twitter", url: "https://x.com/raushang_4" },
   { platform: "Mail", url: "mailto:raushang4+bussiness@gmail.com" },
@@ -16,8 +17,8 @@ export const socialLinks = [
     platform: "Youtube",
     url: "https://www.youtube.com/@raushang4",
   },
-  { platform: "Discord", url: "https://discord.gg/raushang4" },
-  { platform: "Instagram", url: "https://instagram.com/raushang4" },
+  { platform: "Discord", url: "https://discord.gg/365GjNQs" },
+  { platform: "Instagram", url: "https://instagram.com/raushang_4" },
   // Add the new GitHub link
   {
     platform: "GitHub",
